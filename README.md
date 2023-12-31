@@ -1,20 +1,6 @@
-hi, this is colon from the future.
+# FullGDPS GDBrowser
 
-what the FUCK was wrong with me back then???? seriously this is some of the worst code i've ever seen
-
-welp, here's the readme. but you've been warned,,,
-
-
-# GDBrowser
-
-  
-
-Uh... so I've never actually used GitHub before this. But I'll try to explain everything going on here.
-
-  
-
-Sorry for my messy code. It's why I was skeptical about making this open source, but you know what, the code runs fine in the end.
-
+  https://full.ps.fhgdps.com
   
   ## How do I run this?
 If you're just here to use GDBrowser locally because the site is down or blocked or restricted or god knows what, this is the only part you really need to read
